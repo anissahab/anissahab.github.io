@@ -1,0 +1,23 @@
+
+h1 {
+	color: indigo;
+}
+
+body{
+	background-image: url(clouds.jpg);
+	background-size: cover;
+}
+
+.textbody {
+    font-size: medium;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+a {
+    color: purple;
+}
+
+#intro{
+	color: indigo;
+	vertical-align: middle;
+}
